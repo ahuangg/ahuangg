@@ -12,7 +12,7 @@
 <!--- Connects --->
 
 <!--- Stats --->
-<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&hide=html,css,ejs,jupyter notebook&theme=ayu-mirage&langs_count=10&layout=compact"/>
+<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&hide=jupyter notebook&theme=ayu-mirage&langs_count=10&layout=compact"/>
 <img align="center" alt="alanStats" src="https://github-readme-stats.vercel.app/api?username=a1an-huang&show_icons=true&theme=ayu-mirage" width="49.5%"/>
 
 <!---
