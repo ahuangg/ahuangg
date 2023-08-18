@@ -12,8 +12,8 @@
 <!--- Connects --->
 
 <!--- Stats --->
-<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1an-huang&theme=ayu-mirage&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,ejs"/>
-<img align="center" alt="alanStats" src="https://github-readme-stats.vercel.app/api?username=a1an-huang&show_icons=true&theme=ayu-mirage" width="49.5%"/>
+<img align="left" alt="alanLangCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahuangg&theme=ayu-mirage&langs_count=10&layout=compact&hide=jupyter%20notebook,scss,ejs"/>
+<img align="center" alt="alanStats" src="https://github-readme-stats.vercel.app/api?username=ahuangg&show_icons=true&theme=ayu-mirage" width="49.5%"/>
 
 <!---
 a1an-huang/a1an-huang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
