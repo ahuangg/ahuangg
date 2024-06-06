@@ -4,7 +4,7 @@
 
 👨‍💻 Software Developer sharing my journey<br/>
 📚 Pursuing a Master in Computer Science at Georgia Institute of Technology, United States<br/>
-📊 Follow me on my competetive programming journey on [Leetcode](https://leetcode.com/u/ahuanng/)<br/>
+📊 Follow me on my competitive programming journey on [Leetcode](https://leetcode.com/u/huangalan/)<br/>
 🎨 Learning more about system design and cloud infrastructure<br/>
 💭 Currently building a reels like application with Swift and AWS<br/>
 
