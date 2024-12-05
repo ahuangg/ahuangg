@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahuangg&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahuangg&theme=ayu-mirage&langs_count=10&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahuangg&theme=ayu-mirage&langs_count=10&layout=compact&hide=ShaderLab,Jupyter%20Notebook,HTML,HLSL,CSS)
 
 #
 
