@@ -8,8 +8,8 @@
 💭 Currently contributing to open source projects<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahuangg&theme=ayu-mirage&langs_count=10&layout=compact&hide=ShaderLab,Jupyter%20Notebook,HTML,HLSL,CSS)
-
-## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huang-alan) [![](https://visitcount.itsvg.in/api?id=ahuangg&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huang-alan) [![](https://visitcount.itsvg.in/api?id=ahuangg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ### 🧰 Languages and Tools
 
