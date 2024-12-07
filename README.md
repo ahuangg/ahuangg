@@ -2,7 +2,6 @@
 
 **`Software Developer`**
 
-👨‍💻 Software Developer<br/>
 📚 Pursuing a Master in Computer Science at Georgia Institute of Technology, United States<br/>
 📊 Follow me on my competitive programming journey on [Leetcode](https://leetcode.com/u/huangalan/)<br/>
 🎨 Learning more about go programming, system design and cloud infrastructure<br/>
