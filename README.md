@@ -31,12 +31,12 @@
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://linkedin.com/in/huang-alan">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
   </a>
   <img src="https://visitcount.itsvg.in/api?id=ahuangg&icon=0&color=0" alt="Visit Count" style="vertical-align: middle;" />
-</div>
+</div> -->
 
 <!-- ### 🧰 Languages and Tools
 
