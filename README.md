@@ -1,4 +1,4 @@
-## 🗺️ Hello, I'm Alan Huang
+# 🗺️ Hello, I'm Alan Huang
 
 **`Software Developer`**
 
