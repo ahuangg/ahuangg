@@ -1,6 +1,6 @@
 # 🗺️ Hello, I'm Alan Huang
 
-#### Software Developer
+**`Software Developer`**
 
 📚 Pursuing a Master in Computer Science at Georgia Institute of Technology, United States<br/>
 🎨 I'm currently learning go programming, system design, and cloud infrastructure<br/>
