@@ -1,11 +1,11 @@
-# 🗺️ Hello, I'm Alan Huang
+## 🗺️ Hello, I'm Alan Huang
 
 **`Software Developer`**
 
 📚 Pursuing a Master in Computer Science at Georgia Institute of Technology, United States<br/>
 🎨 I'm currently learning go programming, system design, and cloud infrastructure<br/>
-💭 2025 Goals: contribute to more open source projects<br/>
-👯 Open to collaborations, feel free to contact me [@ahuang7840](mailto:ahuang7840@gmail.com)
+💭 2025 Goals: Contribute to open source projects and build impactful solutions<br/>
+🤝 Let's collaborate! Reach out to me at [@ahuang7840](mailto:ahuang7840@gmail.com)
 
 #### My Languages and Tools
 
@@ -29,7 +29,7 @@
 </br>
 <!-- ## ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahuangg&theme=ayu-mirage&langs_count=10&layout=compact&hide=ShaderLab,Jupyter%20Notebook,HTML,HLSL,CSS) -->
 
-##
+<!-- ## -->
 
 <!-- <div align="center">
   <a href="https://linkedin.com/in/huang-alan">
