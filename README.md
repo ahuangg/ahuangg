@@ -4,6 +4,6 @@
 <p align="center">Sorry about that. Please try refreshing and contact us if the problem persists.</p>
 <p align="center">
 	<a href="mailto:ahuang@gmail.com">Contact Support</a> —
-	<a href="https://huangalan.com/">GitHub Status</a> 
+	<a  target="_blank" rel="noopener noreferrer" href="https://huangalan.com/">GitHub Status</a> 
 </p>
 </p>
